@@ -56,7 +56,7 @@ function checkIt() {
     if (max == evil) {
       title = "Pick From These 6 Questions And We’ll Tell You Which Kermit Meme You Are";
       header = "You got: Evil Kermit";
-      message = "You have good intentions and wish to do good things, but every time you actually go to do said 'thing' your subconscious convinces you to do the opposite. What a pity.";
+      message = "You have good intentions and wish to do good things, but every time you actually go to do said 'thing' your subconscious convinces you to do the opposite. It's a vicious cycle.";
       img = '<img src ="img/kermit/evil.jpeg">';
     }
     else if (max == tea) {
